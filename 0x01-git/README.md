@@ -1,2 +1,2 @@
 My first readme
-tho only time to do so
+the only time to do so
